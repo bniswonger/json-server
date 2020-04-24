@@ -1,0 +1,28 @@
+{
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "Hospital - North"
+    },
+    {
+      "id": 2,
+      "name": "Hospital - South"
+    },
+    {
+      "id": 3,
+      "name": "Hospital - West"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "hospitalId": 1
+    },
+    {
+      "id": 2,
+      "name": "Dr. Brown",
+      "hospitalId": 1
+    }
+  ]
+}
